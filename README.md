@@ -81,4 +81,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Rohit Kadian - rohitkadian8689@gmail.com
 
-Project Link: https://github.com/your_username/mental-health
